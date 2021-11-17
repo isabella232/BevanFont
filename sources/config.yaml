@@ -1,0 +1,6 @@
+sources:
+  - Bevan.glyphs
+  - Bevan-Italic.glyphs
+buildVariable: False
+# buildWebfont: False
+# buildOTF: False
