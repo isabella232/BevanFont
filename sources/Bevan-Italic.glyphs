@@ -1,8 +1,5 @@
 {
 .appVersion = "3100";
-DisplayStrings = (
-"*/asterisk.ss01"
-);
 classes = (
 {
 automatic = 1;
@@ -32,10 +29,6 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
-},
-{
-name = versionString;
-value = "Version 2.000";
 },
 {
 name = vendorID;
@@ -137,7 +130,7 @@ value = 1000;
 },
 {
 name = typoAscender;
-value = 2365;
+value = 2366;
 },
 {
 name = typoDescender;
@@ -149,7 +142,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 2365;
+value = 2366;
 },
 {
 name = hheaDescender;
